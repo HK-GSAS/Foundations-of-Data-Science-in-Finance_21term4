@@ -1,6 +1,6 @@
-# Teaching Materials for Foundations of Data Science in Finance
+# Course Materials for Students Studying Foundations of Data Science in Finance
 
-This repo contains the teaching materials that are used in the Foundations of Data Science in Finance course during the September and October 2020 semester.
+This repo contains the course materials that are used in the Foundations of Data Science in Finance course.
 
 This includes: homeworks, labs, discussion, slides and notebooks used in lecture.
 
