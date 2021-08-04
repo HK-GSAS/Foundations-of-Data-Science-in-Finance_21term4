@@ -1,6 +1,6 @@
 {
   "name": "Lab 1: Expressions",
-  "endpoint": "cal/data8/su20/lab01",
+  "endpoint": "gsas/eecs580/fa21/lab1",
   "src": [
     "lab01.ipynb"
   ],
