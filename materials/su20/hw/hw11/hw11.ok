@@ -1,6 +1,6 @@
 {
   "name": "Homework 11: Regression Inference",
-  "endpoint": "cal/data8/su20/hw11",
+  "endpoint": "gsas/eecs580/fa21/homework11",
   "src": [
     "hw11.ipynb"
   ],
