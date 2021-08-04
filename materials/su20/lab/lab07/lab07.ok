@@ -1,6 +1,6 @@
 {
   "name": "Inference and the Death Penalty",
-  "endpoint": "cal/data8/su20/lab07",
+  "endpoint": "gsas/eecs580/fa21/lab7",
   "src": [
     "lab07.ipynb"
   ],
