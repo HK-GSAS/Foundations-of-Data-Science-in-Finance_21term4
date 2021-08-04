@@ -1,6 +1,6 @@
 {
   "name": "Lab 2: Tables",
-  "endpoint": "cal/data8/su20/lab02",
+  "endpoint": "gsas/eecs580/fa21/lab2",
   "src": [
     "lab02.ipynb"
   ],
