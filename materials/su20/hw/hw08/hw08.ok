@@ -1,6 +1,6 @@
 {
   "name": "Homework 8: Confidence Intervals",
-  "endpoint": "cal/data8/su20/hw08",
+  "endpoint": "gsas/eecs580/fa21/homework8",
   "src": [
     "hw08.ipynb"
   ],
