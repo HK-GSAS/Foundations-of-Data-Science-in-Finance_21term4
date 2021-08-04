@@ -1,6 +1,6 @@
 {
   "name": "Homework 4: Functions, Histograms, and Groups",
-  "endpoint": "hkgsas/eecsbus580/fa21/hw4",
+  "endpoint": "gsas/eecs580/fa21/homework4",
   "src": [
     "hw04.ipynb"
   ],
