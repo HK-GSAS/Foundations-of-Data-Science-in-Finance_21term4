@@ -1,6 +1,6 @@
 {
   "name": "Homework 12: Classification",
-  "endpoint": "cal/data8/su20/hw12",
+  "endpoint": "gsas/eecs580/fa21/homework12",
   "src": [
     "hw12.ipynb"
   ],
