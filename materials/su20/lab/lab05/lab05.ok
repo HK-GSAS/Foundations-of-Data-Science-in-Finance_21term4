@@ -1,6 +1,6 @@
 {
   "name": "Simulations",
-  "endpoint": "cal/data8/su20/lab05",
+  "endpoint": "gsas/eecs580/fa21/lab5",
   "src": [
     "lab05.ipynb"
   ],
