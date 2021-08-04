@@ -1,6 +1,6 @@
 {
   "name": "Assessing Models: Examining the Therapeutic Touch",
-  "endpoint": "cal/data8/su20/lab06",
+  "endpoint": "gsas/eecs580/fa21/lab6",
   "src": [
     "lab06.ipynb"
   ],
