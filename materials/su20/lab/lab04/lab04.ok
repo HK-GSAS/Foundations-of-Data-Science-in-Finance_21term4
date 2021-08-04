@@ -1,6 +1,6 @@
 {
   "name": "Functions and Visualizations",
-  "endpoint": "cal/data8/su20/lab04",
+  "endpoint": "gsas/eecs580/fa21/lab4",
   "src": [
     "lab04.ipynb"
   ],
