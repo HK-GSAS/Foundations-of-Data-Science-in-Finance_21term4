@@ -1,6 +1,6 @@
 {
   "name": "Quantifying Sampling Errors in Regression",
-  "endpoint": "cal/data8/su20/lab11",
+  "endpoint": "gsas/eecs580/fa21/lab11",
   "src": [
     "lab11.ipynb"
   ],
