@@ -1,6 +1,6 @@
 {
   "name": "Resampling and the Bootstrap",
-  "endpoint": "cal/data8/su20/hw09",
+  "endpoint": "gsas/eecs580/fa21/homework9",
   "src": [
     "hw09.ipynb"
   ],
