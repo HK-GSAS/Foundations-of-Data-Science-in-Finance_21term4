@@ -1,6 +1,6 @@
 {
   "name": "Resampling and the Bootstrap",
-  "endpoint": "cal/data8/su20/lab08",
+  "endpoint": "gsas/eecs580/fa21/lab8",
   "src": [
     "lab08.ipynb"
   ],
