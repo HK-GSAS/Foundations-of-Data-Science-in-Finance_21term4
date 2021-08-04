@@ -1,6 +1,6 @@
 {
   "name": "Correlation",
-  "endpoint": "cal/data8/su20/lab10",
+  "endpoint": "gsas/eecs580/fa21/lab10",
   "src": [
     "lab10.ipynb"
   ],
