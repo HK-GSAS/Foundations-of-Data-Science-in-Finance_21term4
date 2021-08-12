@@ -1,6 +1,6 @@
 {
   "name": "Homework 1: Causality and Expressions",
-  "endpoint": "hkgsas/eecsbus580/fa21/homework1",
+  "endpoint": "http://okpy.gsas.edu.hk/hkgsas/eecsbus580/fa21/homework1",
   "src": [
     "hw01.ipynb"
   ],
