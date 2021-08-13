@@ -1,46 +1,10 @@
-test = {
-  'name': 'q13',
-  'points': 1,
-  'suites': [
-    {
-      'cases': [
-        {
-          'code': r"""
-          >>> nacho_reaction('salsa')
-          'Spicy!'
-          """,
-          'hidden': False,
-          'locked': False
-        },
-        {
-          'code': r"""
-          >>> nacho_reaction('cheese')
-          'Cheesy!'
-          """,
-          'hidden': False,
-          'locked': False
-        },
-        {
-          'code': r"""
-          >>> nacho_reaction('both')
-          'Wow!'
-          """,
-          'hidden': False,
-          'locked': False
-        },
-        {
-          'code': r"""
-          >>> nacho_reaction('neither')
-          'Meh.'
-          """,
-          'hidden': False,
-          'locked': False
-        }
-      ],
-      'scored': True,
-      'setup': '',
-      'teardown': '',
-      'type': 'doctest'
-    }
-  ]
-}
+test = {   'name': 'q13',
+    'points': 1,
+    'suites': [   {   'cases': [   {'code': ">>> nacho_reaction('salsa') == 'Spicy!'\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> nacho_reaction('cheese') == 'Cheesy!'\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> nacho_reaction('both') == 'Wow!'\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> nacho_reaction('neither') == 'Meh.'\nTrue", 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
